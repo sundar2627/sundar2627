@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Sundar
+### Hi there 👋 It's me Sundar
 Android Developer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> 
 
@@ -6,13 +6,13 @@ Android Developer
 - 🌍  I'm based in India 🇮🇳
 - 🌱 I’m currently learning Kotlin Multiplatform
 - 👯 I’m looking to collaborate on ML/AI
-*   ✉️  You can contact me at [shunmug.sundar8143@gmail.com](mailto:shunmug.sundar8143@gmail.com)
+- ✉️  You can contact me at [shunmug.sundar8143@gmail.com](mailto:shunmug.sundar8143@gmail.com)
 
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> ![kotlin](https://github.com/sundar2627/sundar2627/assets/142339945/9c537f76-295b-4f54-8802-252d6cb767a3) <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
 
-### IDE and Tools I Use
+### IDE and Tools 
 ![icons8-android-studio-48](https://github.com/sundar2627/sundar2627/assets/142339945/17c114b5-647c-492b-8308-8fae286db491)
 ![icons8-figma-48](https://github.com/sundar2627/sundar2627/assets/142339945/a7166054-ed69-4a89-99df-c1cb87cb0301)
 ![i![Uploading icons8-figma-48.png…]()
