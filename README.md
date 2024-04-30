@@ -2,8 +2,11 @@
 Android Developer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> 
 
+
+- 🌍  I'm based in India 🇮🇳
 - 🌱 I’m currently learning Kotlin Multiplatform
 - 👯 I’m looking to collaborate on ML/AI
+*   ✉️  You can contact me at [shunmug.sundar8143@gmail.com](mailto:shunmug.sundar8143@gmail.com)
 
 
 ### I code in
